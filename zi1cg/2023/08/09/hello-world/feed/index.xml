@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	《世界，您好！》的评论	</title>
-	<atom:link href="http://127.0.0.1/2023/08/09/hello-world/feed/?simply_static_page=79" rel="self" type="application/rss+xml" />
-	<link>/2023/08/09/hello-world/</link>
+	<atom:link href="http://127.0.0.1/2023/08/09/hello-world/feed/?simply_static_page=639" rel="self" type="application/rss+xml" />
+	<link>/zi1cg/2023/08/09/hello-world/</link>
 	<description>注意：子一吃瓜网Archived由于采用静态页面托管，评论功能将不可用。</description>
 	<lastBuildDate>Wed, 09 Aug 2023 05:31:11 +0000</lastBuildDate>
 	<sy:updatePeriod>
@@ -20,11 +20,11 @@
 	<item>
 		<title>
 		评论者：一位WordPress评论者		</title>
-		<link>/2023/08/09/hello-world/#comment-1</link>
+		<link>/zi1cg/2023/08/09/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[一位WordPress评论者]]></dc:creator>
 		<pubDate>Wed, 09 Aug 2023 05:31:11 +0000</pubDate>
-		<guid isPermaLink="false">/?p=1#comment-1</guid>
+		<guid isPermaLink="false">/zi1cg/?p=1#comment-1</guid>
 
 					<description><![CDATA[您好，这是一条评论。若需要审核、编辑或删除评论，请访问仪表盘的评论界面。评论者头像来自 &lt;a href=&quot;https://cn.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;。]]></description>
 			<content:encoded><![CDATA[<p>您好，这是一条评论。若需要审核、编辑或删除评论，请访问仪表盘的评论界面。评论者头像来自 <a href="https://cn.gravatar.com/">Gravatar</a>。</p>
