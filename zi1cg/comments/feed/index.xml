@@ -8,10 +8,10 @@
 <channel>
 	<title>
 	“子一吃瓜网Archived”的评论	</title>
-	<atom:link href="http://127.0.0.1/comments/feed/?simply_static_page=593" rel="self" type="application/rss+xml" />
+	<atom:link href="http://127.0.0.1/comments/feed/?simply_static_page=738" rel="self" type="application/rss+xml" />
 	<link>/zi1cg/</link>
-	<description>注意：子一吃瓜网Archived由于采用静态页面托管，评论功能将不可用。</description>
-	<lastBuildDate>Wed, 09 Aug 2023 06:22:04 +0000</lastBuildDate>
+	<description>注意：子一吃瓜网Archived由于采用静态页面托管，无法使用评论、搜索。</description>
+	<lastBuildDate>Wed, 09 Aug 2023 07:58:33 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
@@ -28,20 +28,6 @@
 
 					<description><![CDATA[test]]></description>
 			<content:encoded><![CDATA[<p>test</p>
-]]></content:encoded>
-		
-			</item>
-		<item>
-		<title>
-		一位WordPress评论者对《世界，您好！》的评论		</title>
-		<link>/zi1cg/2023/08/09/hello-world/#comment-1</link>
-
-		<dc:creator><![CDATA[一位WordPress评论者]]></dc:creator>
-		<pubDate>Wed, 09 Aug 2023 05:31:11 +0000</pubDate>
-		<guid isPermaLink="false">/zi1cg/?p=1#comment-1</guid>
-
-					<description><![CDATA[您好，这是一条评论。若需要审核、编辑或删除评论，请访问仪表盘的评论界面。评论者头像来自 &lt;a href=&quot;https://cn.gravatar.com/&quot;&gt;Gravatar&lt;/a&gt;。]]></description>
-			<content:encoded><![CDATA[<p>您好，这是一条评论。若需要审核、编辑或删除评论，请访问仪表盘的评论界面。评论者头像来自 <a href="https://cn.gravatar.com/">Gravatar</a>。</p>
 ]]></content:encoded>
 		
 			</item>
@@ -154,6 +140,20 @@
 
 					<description><![CDATA[好好好]]></description>
 			<content:encoded><![CDATA[<p>好好好</p>
+]]></content:encoded>
+		
+			</item>
+		<item>
+		<title>
+		匿名对《推荐一个很骚的油管福利姬Hina》的评论		</title>
+		<link>/zi1cg/2023/07/13/%e6%8e%a8%e8%8d%90%e4%b8%80%e4%b8%aa%e5%be%88%e9%aa%9a%e7%9a%84%e6%b2%b9%e7%ae%a1%e7%a6%8f%e5%88%a9%e5%a7%achina/#comment-12</link>
+
+		<dc:creator><![CDATA[匿名]]></dc:creator>
+		<pubDate>Tue, 25 Jul 2023 09:23:33 +0000</pubDate>
+		<guid isPermaLink="false">https://zi1.xtzyj.top/?p=122#comment-12</guid>
+
+					<description><![CDATA[尻一发先]]></description>
+			<content:encoded><![CDATA[<p>尻一发先</p>
 ]]></content:encoded>
 		
 			</item>
