@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>RGeB研究所</title>
+  
+  <subtitle>A special friendship network at Class 10</subtitle>
+  <link href="http://example.com/atom.xml" rel="self"/>
+  
+  <link href="http://example.com/"/>
+  <updated>2023-12-02T08:59:05.911Z</updated>
+  <id>http://example.com/</id>
+  
+  <author>
+    <name>Li Ziyi</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>RGeB Studios created！</title>
+    <link href="http://example.com/2023/12/02/RGeB-Studios-created/"/>
+    <id>http://example.com/2023/12/02/RGeB-Studios-created/</id>
+    <published>2023-12-02T08:56:55.000Z</published>
+    <updated>2023-12-02T08:59:05.911Z</updated>
+    
+    <content type="html"><![CDATA[<p>Everyone is happy! The RGeB Studios website is up and running today!</p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Everyone is happy! The RGeB Studios website is up and running today!&lt;/p&gt;
+</summary>
+      
+    
+    
+    
+    <category term="Other" scheme="http://example.com/categories/Other/"/>
+    
+    
+    <category term="Chat" scheme="http://example.com/tags/Chat/"/>
+    
+    <category term="Welcome" scheme="http://example.com/tags/Welcome/"/>
+    
+  </entry>
+  
+</feed>
